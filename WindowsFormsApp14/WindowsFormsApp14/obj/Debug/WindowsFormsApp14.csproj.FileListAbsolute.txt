@@ -1,0 +1,10 @@
+C:\Users\e\source\repos\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.csprojAssemblyReference.cache
+C:\Users\e\source\repos\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.Form1.resources
+C:\Users\e\source\repos\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.Properties.Resources.resources
+C:\Users\e\source\repos\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.csproj.GenerateResource.cache
+C:\Users\e\source\repos\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.csproj.CoreCompileInputs.cache
+C:\Users\e\source\repos\WindowsFormsApp14\WindowsFormsApp14\bin\Debug\Origin Username Checker.exe.config
+C:\Users\e\source\repos\WindowsFormsApp14\WindowsFormsApp14\bin\Debug\Origin Username Checker.exe
+C:\Users\e\source\repos\WindowsFormsApp14\WindowsFormsApp14\bin\Debug\Origin Username Checker.pdb
+C:\Users\e\source\repos\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\Origin Username Checker.exe
+C:\Users\e\source\repos\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\Origin Username Checker.pdb
