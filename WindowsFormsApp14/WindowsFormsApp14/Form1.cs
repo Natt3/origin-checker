@@ -208,7 +208,7 @@ namespace WindowsFormsApp14
 
         private void button4_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("coded and created by @eric", "Origin Checker");
+            MessageBox.Show("coded and created by @pick", "Origin Checker");
         }
     }
  }
